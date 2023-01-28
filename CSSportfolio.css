@@ -1,0 +1,108 @@
+body{
+    background-color: rgb(45, 45, 49);
+    max-height: 1200px;
+}
+
+#navBar{
+    text-decoration: none;
+    color: whitesmoke;
+    word-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    padding: 20px;
+}
+
+.image1{
+    height: 500px;
+    display: flex;
+    justify-content: right;
+    position: relative;
+    right: 200px;
+    top: 100px;
+}
+
+.aboutMe{
+    position: relative;
+    bottom: 400px;
+    left: 50px;
+    color: whitesmoke;
+    padding: 0px;
+}
+
+.aboutMe1{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.aboutMe2{
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 50px;
+}
+
+.aboutMe3{
+    font-size: 20px;
+    font-family: cursive;
+    position: relative;
+    bottom: 90px ;
+    left: 5px;
+}
+
+.skills{
+    position: relative;
+    bottom: 350px;
+    left: 500px;
+}
+
+.skill1,.skill2,.skill3,.skill4,.skill5{
+    height: 30px;
+    border-radius: 8px;
+    border: 4px;
+    padding: 10px;
+}
+
+.skillsOn1{
+    position: relative;
+    bottom: 350px;
+    left: 500px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.findMe1{
+    position: relative;
+    bottom: 455px;
+    left: 50px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.skill6,.skill7,.skill8{
+    height: 30px;
+    border-radius: 10px;
+    border: 4px;
+    padding: 10px;
+    position: relative;
+    bottom: 450px;
+    left: 50px;
+}
+
+.myWork{
+    color: whitesmoke;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 50px;
+    bottom: 350px;
+    text-align: center;
+}
+
+.videos{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    bottom: 325px;
+}
+
+ 
